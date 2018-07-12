@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_leaderbord",
+    "texture": "25014de8-0b65-42f9-a994-abea3aea8cfd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      419,
+      419
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      420,
+      420
+    ]
+  }
+}
