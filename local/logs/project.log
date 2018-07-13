@@ -1,54 +1,1046 @@
-2018-07-13T07:50:14.196Z - normal: Load ~/.CocosCreator/settings.json
-2018-07-13T07:50:14.201Z - normal: checking language setting...
-2018-07-13T07:50:14.201Z - normal: Language: zh
-2018-07-13T07:50:15.907Z - success: protocol editor-framework registered
-2018-07-13T07:50:15.907Z - success: protocol app registered
-2018-07-13T07:50:15.907Z - success: protocol theme registered
-2018-07-13T07:50:15.908Z - success: protocol packages registered
-2018-07-13T07:50:15.908Z - success: protocol unpack registerred
-2018-07-13T07:50:15.908Z - success: protocol disable-commonjs registerred
-2018-07-13T07:50:15.960Z - normal: connected!
-2018-07-13T07:50:15.962Z - normal: Check project G:\projects\cocos\FindTheTraitors
-2018-07-13T07:50:15.969Z - normal: Initializing Cocos2d
-2018-07-13T07:50:16.141Z - normal: Initializing Asset Database
-2018-07-13T07:50:16.170Z - success: protocol uuid registerred
-2018-07-13T07:50:16.170Z - success: protocol db registerred
-2018-07-13T07:50:16.170Z - success: protocol thumbnail registerred
-2018-07-13T07:50:16.170Z - normal: Loading editor/builtin packages
-2018-07-13T07:50:16.187Z - success: anysdk loaded
-2018-07-13T07:50:16.294Z - success: assets loaded
-2018-07-13T07:50:16.295Z - success: builder loaded
-2018-07-13T07:50:16.298Z - success: cocos-analytics loaded
-2018-07-13T07:50:16.300Z - success: console loaded
-2018-07-13T07:50:16.331Z - success: fb-instant-games loaded
-2018-07-13T07:50:16.334Z - success: hierarchy loaded
-2018-07-13T07:50:16.336Z - success: inspector loaded
-2018-07-13T07:50:16.338Z - success: keystore loaded
-2018-07-13T07:50:16.340Z - success: node-library loaded
-2018-07-13T07:50:16.342Z - success: package-asset loaded
-2018-07-13T07:50:16.344Z - success: preferences loaded
-2018-07-13T07:50:16.345Z - success: project-exporter loaded
-2018-07-13T07:50:16.357Z - success: project-importer loaded
-2018-07-13T07:50:16.359Z - success: project-settings loaded
-2018-07-13T07:50:16.361Z - success: ui-kit loaded
-2018-07-13T07:50:16.363Z - success: ui-grid loaded
-2018-07-13T07:50:16.365Z - success: scene loaded
-2018-07-13T07:50:16.366Z - success: sprite-editor loaded
-2018-07-13T07:50:16.369Z - success: store loaded
-2018-07-13T07:50:16.372Z - success: timeline loaded
-2018-07-13T07:50:16.372Z - normal: Loading builtin packages
-2018-07-13T07:50:16.374Z - success: asset-db-debugger loaded
-2018-07-13T07:50:16.375Z - success: code-editor loaded
-2018-07-13T07:50:16.376Z - success: color-picker loaded
-2018-07-13T07:50:16.378Z - success: package-manager loaded
-2018-07-13T07:50:16.382Z - success: sdkbox loaded
-2018-07-13T07:50:16.384Z - success: tester loaded
-2018-07-13T07:50:16.385Z - success: ui-kit-preview-extra loaded
-2018-07-13T07:50:16.386Z - success: ui-kit-preview loaded
-2018-07-13T07:50:16.388Z - success: ui-tree loaded
-2018-07-13T07:50:17.316Z - normal: Initializing project G:\projects\cocos\FindTheTraitors
-2018-07-13T07:50:17.319Z - normal: Loading packages
-2018-07-13T07:50:17.322Z - normal: Watching packages
-2018-07-13T07:50:17.333Z - normal: Run Application
-2018-07-13T07:50:18.265Z - success: preview server running at http://localhost:7456
-2018-07-13T07:50:22.610Z - normal: 1.9.1
+2018-07-13T08:20:35.361Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-13T08:20:35.365Z - normal: checking language setting...
+2018-07-13T08:20:35.366Z - normal: Language: zh
+2018-07-13T08:20:37.037Z - success: protocol editor-framework registered
+2018-07-13T08:20:37.037Z - success: protocol app registered
+2018-07-13T08:20:37.037Z - success: protocol theme registered
+2018-07-13T08:20:37.037Z - success: protocol packages registered
+2018-07-13T08:20:37.037Z - success: protocol unpack registerred
+2018-07-13T08:20:37.037Z - success: protocol disable-commonjs registerred
+2018-07-13T08:20:37.097Z - normal: connected!
+2018-07-13T08:20:37.098Z - normal: Check project G:\projects\cocos\FindTheTraitors
+2018-07-13T08:20:37.106Z - normal: Initializing Cocos2d
+2018-07-13T08:20:37.298Z - normal: Initializing Asset Database
+2018-07-13T08:20:37.330Z - success: protocol uuid registerred
+2018-07-13T08:20:37.330Z - success: protocol db registerred
+2018-07-13T08:20:37.330Z - success: protocol thumbnail registerred
+2018-07-13T08:20:37.330Z - normal: Loading editor/builtin packages
+2018-07-13T08:20:37.349Z - success: anysdk loaded
+2018-07-13T08:20:37.466Z - success: assets loaded
+2018-07-13T08:20:37.467Z - success: builder loaded
+2018-07-13T08:20:37.469Z - success: cocos-analytics loaded
+2018-07-13T08:20:37.471Z - success: console loaded
+2018-07-13T08:20:37.504Z - success: fb-instant-games loaded
+2018-07-13T08:20:37.507Z - success: hierarchy loaded
+2018-07-13T08:20:37.509Z - success: inspector loaded
+2018-07-13T08:20:37.511Z - success: keystore loaded
+2018-07-13T08:20:37.512Z - success: node-library loaded
+2018-07-13T08:20:37.514Z - success: package-asset loaded
+2018-07-13T08:20:37.517Z - success: preferences loaded
+2018-07-13T08:20:37.518Z - success: project-exporter loaded
+2018-07-13T08:20:37.531Z - success: project-importer loaded
+2018-07-13T08:20:37.532Z - success: project-settings loaded
+2018-07-13T08:20:37.534Z - success: ui-kit loaded
+2018-07-13T08:20:37.536Z - success: ui-grid loaded
+2018-07-13T08:20:37.539Z - success: scene loaded
+2018-07-13T08:20:37.540Z - success: sprite-editor loaded
+2018-07-13T08:20:37.542Z - success: store loaded
+2018-07-13T08:20:37.546Z - success: timeline loaded
+2018-07-13T08:20:37.546Z - normal: Loading builtin packages
+2018-07-13T08:20:37.548Z - success: asset-db-debugger loaded
+2018-07-13T08:20:37.549Z - success: code-editor loaded
+2018-07-13T08:20:37.549Z - success: color-picker loaded
+2018-07-13T08:20:37.551Z - success: package-manager loaded
+2018-07-13T08:20:37.555Z - success: sdkbox loaded
+2018-07-13T08:20:37.558Z - success: tester loaded
+2018-07-13T08:20:37.559Z - success: ui-kit-preview-extra loaded
+2018-07-13T08:20:37.560Z - success: ui-kit-preview loaded
+2018-07-13T08:20:37.561Z - success: ui-tree loaded
+2018-07-13T08:20:38.542Z - normal: Initializing project G:\projects\cocos\FindTheTraitors
+2018-07-13T08:20:38.544Z - normal: Loading packages
+2018-07-13T08:20:38.549Z - normal: Watching packages
+2018-07-13T08:20:38.561Z - normal: Run Application
+2018-07-13T08:20:38.952Z - success: preview server running at http://localhost:7456
+2018-07-13T08:20:42.857Z - normal: 1.9.1
+2018-07-13T08:23:37.564Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T08:23:37.565Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T08:23:37.565Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T08:23:37.713Z - normal: Simulator: Ready for GLSL
+2018-07-13T08:23:37.714Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T08:23:37.714Z - normal: Simulator: 
+2018-07-13T08:23:37.714Z - normal: Simulator: {
+2018-07-13T08:23:37.714Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T08:23:37.715Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T08:23:37.716Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T08:23:37.716Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T08:23:37.718Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T08:23:37.718Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T08:23:37.718Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T08:23:37.718Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T08:23:37.718Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T08:23:37.718Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T08:23:37.719Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T08:23:37.719Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T08:23:37.719Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T08:23:37.719Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T08:23:37.719Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T08:23:37.719Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T08:23:37.720Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T08:23:37.720Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T08:23:37.720Z - normal: Simulator: }
+2018-07-13T08:23:37.720Z - normal: Simulator: 
+2018-07-13T08:23:37.720Z - normal: Simulator: 
+2018-07-13T08:23:37.720Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T08:23:37.720Z - normal: Simulator: Project Config:
+2018-07-13T08:23:37.720Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T08:23:37.720Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T08:23:37.720Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T08:23:37.720Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T08:23:37.720Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T08:23:37.720Z - normal: Simulator:     show console: NO
+2018-07-13T08:23:37.721Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T08:23:37.721Z - normal: Simulator:     listen: 
+2018-07-13T08:23:37.721Z - normal: Simulator:     debugger: none
+2018-07-13T08:23:37.721Z - normal: Simulator:     add searching path:
+2018-07-13T08:23:37.721Z - normal: Simulator: 
+2018-07-13T08:23:37.721Z - normal: Simulator: 
+2018-07-13T08:23:37.721Z - normal: Simulator: 
+2018-07-13T08:23:37.722Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:23:37.723Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T08:23:37.726Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:23:37.728Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T08:23:38.118Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T08:23:38.122Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T08:23:38.122Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T08:23:38.341Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T08:23:38.535Z - normal: Simulator: iShow!
+2018-07-13T08:23:38.748Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.0430000000000064ms
+2018-07-13T08:23:38.751Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.18899999999996453ms
+2018-07-13T08:23:38.751Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.09299999999996089ms
+2018-07-13T08:23:38.751Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.0049999999999954525ms
+2018-07-13T08:23:38.800Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-07-13T08:23:38.839Z - normal: Simulator: D/jswrapper (125): JS: Activate: 88.0870000000001ms
+2018-07-13T08:23:44.319Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T08:23:44.320Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T08:23:44.320Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T08:23:44.405Z - normal: Simulator: Ready for GLSL
+2018-07-13T08:23:44.405Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T08:23:44.411Z - normal: Simulator: 
+2018-07-13T08:23:44.412Z - normal: Simulator: {
+2018-07-13T08:23:44.412Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T08:23:44.417Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T08:23:44.418Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T08:23:44.418Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T08:23:44.418Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T08:23:44.418Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T08:23:44.419Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T08:23:44.419Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T08:23:44.419Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T08:23:44.419Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T08:23:44.420Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T08:23:44.420Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T08:23:44.420Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T08:23:44.420Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T08:23:44.420Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T08:23:44.421Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T08:23:44.421Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T08:23:44.421Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T08:23:44.421Z - normal: Simulator: }
+2018-07-13T08:23:44.421Z - normal: Simulator: 
+2018-07-13T08:23:44.421Z - normal: Simulator: 
+2018-07-13T08:23:44.421Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T08:23:44.421Z - normal: Simulator: Project Config:
+2018-07-13T08:23:44.422Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T08:23:44.422Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T08:23:44.422Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T08:23:44.422Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T08:23:44.422Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T08:23:44.422Z - normal: Simulator:     show console: NO
+2018-07-13T08:23:44.422Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T08:23:44.422Z - normal: Simulator:     listen: 
+2018-07-13T08:23:44.422Z - normal: Simulator:     debugger: none
+2018-07-13T08:23:44.423Z - normal: Simulator:     add searching path:
+2018-07-13T08:23:44.423Z - normal: Simulator: 
+2018-07-13T08:23:44.423Z - normal: Simulator: 
+2018-07-13T08:23:44.423Z - normal: Simulator: 
+2018-07-13T08:23:44.423Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:23:44.423Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T08:23:44.423Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:23:44.423Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T08:23:44.761Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T08:23:44.762Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T08:23:44.762Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T08:23:44.950Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T08:23:45.108Z - normal: Simulator: iShow!
+2018-07-13T08:23:45.286Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.5779999999999745ms
+2018-07-13T08:23:45.288Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.16599999999993997ms
+2018-07-13T08:23:45.288Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.08899999999994179ms
+2018-07-13T08:23:45.288Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.0049999999999954525ms
+2018-07-13T08:23:45.343Z - normal: Simulator: D/jswrapper (125): JS: Activate: 54.230999999999995ms
+2018-07-13T08:23:46.885Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-07-13T08:23:46.886Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 192, all objects: 473
+2018-07-13T08:23:46.925Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:23:46.928Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:23:46.959Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:23:46.961Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-07-13T08:23:46.993Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-07-13T08:23:47.002Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-07-13T08:23:47.002Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-07-13T08:23:47.002Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-07-13T08:23:47.008Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-07-13T08:24:04.544Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T08:24:04.544Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T08:24:04.545Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T08:24:04.626Z - normal: Simulator: Ready for GLSL
+2018-07-13T08:24:04.627Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T08:24:04.627Z - normal: Simulator: 
+2018-07-13T08:24:04.629Z - normal: Simulator: {
+2018-07-13T08:24:04.630Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T08:24:04.630Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T08:24:04.630Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T08:24:04.630Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T08:24:04.631Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T08:24:04.631Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T08:24:04.631Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T08:24:04.631Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T08:24:04.632Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T08:24:04.632Z - normal: Simulator: }
+2018-07-13T08:24:04.632Z - normal: Simulator: 
+2018-07-13T08:24:04.632Z - normal: Simulator: 
+2018-07-13T08:24:04.632Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T08:24:04.633Z - normal: Simulator: Project Config:
+2018-07-13T08:24:04.633Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T08:24:04.633Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T08:24:04.635Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T08:24:04.637Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T08:24:04.638Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T08:24:04.639Z - normal: Simulator:     show console: NO
+2018-07-13T08:24:04.639Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T08:24:04.639Z - normal: Simulator:     listen: 
+2018-07-13T08:24:04.640Z - normal: Simulator:     debugger: none
+2018-07-13T08:24:04.640Z - normal: Simulator:     add searching path:
+2018-07-13T08:24:04.640Z - normal: Simulator: 
+2018-07-13T08:24:04.640Z - normal: Simulator: 
+2018-07-13T08:24:04.640Z - normal: Simulator: 
+2018-07-13T08:24:04.640Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:24:04.642Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T08:24:04.642Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:24:04.665Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T08:24:04.977Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T08:24:04.978Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T08:24:04.979Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T08:24:05.172Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T08:24:05.330Z - normal: Simulator: iShow!
+2018-07-13T08:24:05.442Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.495999999999981ms
+2018-07-13T08:24:05.445Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.17299999999994498ms
+2018-07-13T08:24:05.445Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.1209999999999809ms
+2018-07-13T08:24:05.445Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005999999999971806ms
+2018-07-13T08:24:05.497Z - normal: Simulator: D/jswrapper (125): JS: Activate: 51.93300000000005ms
+2018-07-13T08:24:08.458Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-07-13T08:24:08.458Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 192, all objects: 473
+2018-07-13T08:24:08.483Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:24:08.485Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:24:08.511Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:24:08.512Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-07-13T08:24:08.537Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-07-13T08:24:08.544Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-07-13T08:24:08.545Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-07-13T08:24:08.545Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-07-13T08:24:08.545Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-07-13T08:52:14.379Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T08:52:14.380Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T08:52:14.381Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T08:52:14.517Z - normal: Simulator: Ready for GLSL
+2018-07-13T08:52:14.517Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T08:52:14.517Z - normal: Simulator: 
+2018-07-13T08:52:14.517Z - normal: Simulator: {
+2018-07-13T08:52:14.517Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T08:52:14.517Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T08:52:14.517Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T08:52:14.517Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T08:52:14.517Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T08:52:14.517Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T08:52:14.518Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T08:52:14.519Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T08:52:14.519Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T08:52:14.519Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T08:52:14.519Z - normal: Simulator: }
+2018-07-13T08:52:14.519Z - normal: Simulator: 
+2018-07-13T08:52:14.519Z - normal: Simulator: 
+2018-07-13T08:52:14.519Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T08:52:14.520Z - normal: Simulator: Project Config:
+2018-07-13T08:52:14.521Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T08:52:14.521Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T08:52:14.523Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T08:52:14.523Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T08:52:14.523Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T08:52:14.524Z - normal: Simulator:     show console: NO
+2018-07-13T08:52:14.524Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T08:52:14.524Z - normal: Simulator:     listen: 
+2018-07-13T08:52:14.524Z - normal: Simulator:     debugger: none
+2018-07-13T08:52:14.524Z - normal: Simulator:     add searching path:
+2018-07-13T08:52:14.525Z - normal: Simulator: 
+2018-07-13T08:52:14.525Z - normal: Simulator: 
+2018-07-13T08:52:14.525Z - normal: Simulator: 
+2018-07-13T08:52:14.525Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:52:14.525Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T08:52:14.525Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:52:14.525Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T08:52:14.874Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T08:52:14.875Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T08:52:14.875Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T08:52:15.060Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T08:52:15.212Z - normal: Simulator: iShow!
+2018-07-13T08:52:15.443Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.5960000000000036ms
+2018-07-13T08:52:15.445Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.16899999999998272ms
+2018-07-13T08:52:15.445Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.09199999999998454ms
+2018-07-13T08:52:15.445Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.007000000000061846ms
+2018-07-13T08:52:15.506Z - normal: Simulator: D/jswrapper (125): JS: Activate: 60.672000000000025ms
+2018-07-13T08:52:24.333Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：200--100; 点击坐标713.8121948242188--207.56370544433594
+2018-07-13T08:52:24.999Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：200--100; 点击坐标391.50067138671875--197.43795776367188
+2018-07-13T08:52:25.716Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：200--100; 点击坐标182.24932861328125--119.81251525878906
+2018-07-13T08:52:25.717Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T08:52:27.284Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T08:52:27.405Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：200--100; 点击坐标91.12466430664062--67.49967956542969
+2018-07-13T08:52:27.405Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T08:52:39.463Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-07-13T08:52:39.464Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 198, all objects: 479
+2018-07-13T08:52:39.487Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 173, all objects: 454
+2018-07-13T08:52:39.488Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 173, all objects: 454
+2018-07-13T08:52:39.510Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 173, all objects: 454
+2018-07-13T08:52:39.512Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-07-13T08:52:39.541Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-07-13T08:52:39.542Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-07-13T08:52:39.542Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-07-13T08:52:39.542Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-07-13T08:52:39.542Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-07-13T08:53:11.862Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T08:53:11.864Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T08:53:11.864Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T08:53:11.951Z - normal: Simulator: Ready for GLSL
+2018-07-13T08:53:11.951Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T08:53:11.951Z - normal: Simulator: 
+2018-07-13T08:53:11.951Z - normal: Simulator: {
+2018-07-13T08:53:11.951Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T08:53:11.951Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T08:53:11.952Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T08:53:11.952Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T08:53:11.952Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T08:53:11.952Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T08:53:11.952Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T08:53:11.952Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T08:53:11.955Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T08:53:11.956Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T08:53:11.956Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T08:53:11.956Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T08:53:11.957Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T08:53:11.957Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T08:53:11.957Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T08:53:11.957Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T08:53:11.957Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T08:53:11.957Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T08:53:11.958Z - normal: Simulator: }
+2018-07-13T08:53:11.958Z - normal: Simulator: 
+2018-07-13T08:53:11.958Z - normal: Simulator: 
+2018-07-13T08:53:11.958Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T08:53:11.958Z - normal: Simulator: Project Config:
+2018-07-13T08:53:11.958Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T08:53:11.958Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T08:53:11.958Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T08:53:11.958Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T08:53:11.958Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T08:53:11.959Z - normal: Simulator:     show console: NO
+2018-07-13T08:53:11.959Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T08:53:11.959Z - normal: Simulator:     listen: 
+2018-07-13T08:53:11.959Z - normal: Simulator:     debugger: none
+2018-07-13T08:53:11.959Z - normal: Simulator:     add searching path:
+2018-07-13T08:53:11.960Z - normal: Simulator: 
+2018-07-13T08:53:11.960Z - normal: Simulator: 
+2018-07-13T08:53:11.960Z - normal: Simulator: 
+2018-07-13T08:53:11.961Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:53:11.961Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T08:53:11.962Z - normal: Simulator: ------------------------------------------------
+2018-07-13T08:53:11.962Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T08:53:12.279Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T08:53:12.280Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T08:53:12.280Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T08:53:12.468Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T08:53:12.634Z - normal: Simulator: iShow!
+2018-07-13T08:53:12.788Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.6129999999999995ms
+2018-07-13T08:53:12.790Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.18099999999998317ms
+2018-07-13T08:53:12.790Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.09199999999998454ms
+2018-07-13T08:53:12.791Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.007999999999981355ms
+2018-07-13T08:53:12.847Z - normal: Simulator: D/jswrapper (125): JS: Activate: 55.58600000000001ms
+2018-07-13T08:53:17.326Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-07-13T08:53:17.326Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 192, all objects: 473
+2018-07-13T08:53:17.357Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:53:17.358Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:53:17.393Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 171, all objects: 452
+2018-07-13T08:53:17.394Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-07-13T08:53:17.443Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-07-13T08:53:17.443Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-07-13T08:53:17.443Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-07-13T08:53:17.444Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-07-13T08:53:17.444Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-07-13T09:03:58.158Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T09:03:58.159Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T09:03:58.159Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T09:03:58.227Z - normal: Simulator: Ready for GLSL
+2018-07-13T09:03:58.227Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T09:03:58.228Z - normal: Simulator: 
+2018-07-13T09:03:58.228Z - normal: Simulator: {
+2018-07-13T09:03:58.228Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T09:03:58.228Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T09:03:58.228Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T09:03:58.229Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T09:03:58.229Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T09:03:58.230Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T09:03:58.230Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T09:03:58.230Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T09:03:58.230Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T09:03:58.230Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T09:03:58.230Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T09:03:58.231Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T09:03:58.231Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T09:03:58.231Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T09:03:58.231Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T09:03:58.231Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T09:03:58.231Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T09:03:58.231Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T09:03:58.232Z - normal: Simulator: }
+2018-07-13T09:03:58.232Z - normal: Simulator: 
+2018-07-13T09:03:58.232Z - normal: Simulator: 
+2018-07-13T09:03:58.232Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T09:03:58.238Z - normal: Simulator: Project Config:
+2018-07-13T09:03:58.238Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T09:03:58.239Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T09:03:58.242Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T09:03:58.242Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T09:03:58.243Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T09:03:58.243Z - normal: Simulator:     show console: NO
+2018-07-13T09:03:58.243Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T09:03:58.243Z - normal: Simulator:     listen: 
+2018-07-13T09:03:58.243Z - normal: Simulator:     debugger: none
+2018-07-13T09:03:58.243Z - normal: Simulator:     add searching path:
+2018-07-13T09:03:58.243Z - normal: Simulator: 
+2018-07-13T09:03:58.243Z - normal: Simulator: 
+2018-07-13T09:03:58.243Z - normal: Simulator: 
+2018-07-13T09:03:58.243Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:03:58.244Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T09:03:58.244Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:03:58.249Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T09:03:58.596Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T09:03:58.597Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T09:03:58.598Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T09:03:58.784Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T09:03:58.946Z - normal: Simulator: iShow!
+2018-07-13T09:03:59.042Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.0930000000000177ms
+2018-07-13T09:03:59.043Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.17899999999997362ms
+2018-07-13T09:03:59.044Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.08600000000001273ms
+2018-07-13T09:03:59.044Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005999999999971806ms
+2018-07-13T09:03:59.068Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-07-13T09:03:59.095Z - normal: Simulator: D/jswrapper (125): JS: Activate: 45.60000000000002ms
+2018-07-13T09:04:03.046Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7ab359a9-5901-476c-9a6f-811d7b3aa709: 32.27099999999973ms
+2018-07-13T09:04:03.047Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.2169999999996435ms
+2018-07-13T09:04:03.048Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.01700000000073487ms
+2018-07-13T09:04:03.055Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 7.447000000000116ms
+2018-07-13T09:04:03.055Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005000000000109139ms
+2018-07-13T09:04:03.104Z - normal: Simulator: D/jswrapper (125): JS: Activate: 47.93499999999949ms
+2018-07-13T09:04:05.583Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标312.5015563964844--362.81280517578125
+2018-07-13T09:04:08.984Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:08.985Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:11.500Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:11.500Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:12.717Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:12.717Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:13.217Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:13.217Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:13.616Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:13.616Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:14.000Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:14.102Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标202.81301879882812--793.1270751953125
+2018-07-13T09:04:16.450Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标83.0005111694336--899.4385986328125
+2018-07-13T09:04:18.918Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标278.7508239746094--946.6885375976562
+2018-07-13T09:04:19.500Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标535.2521362304688--945.0009155273438
+2018-07-13T09:04:20.250Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标682.0648803710938--941.6256713867188
+2018-07-13T09:04:21.167Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标617.9386596679688--624.376953125
+2018-07-13T09:04:21.699Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:21.799Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标617.9386596679688--405.0016784667969
+2018-07-13T09:04:22.300Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:22.301Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:22.319Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:22.319Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:22.337Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:22.352Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:22.383Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:22.419Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:22.467Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标629.7520141601562--195.75033569335938
+2018-07-13T09:04:23.152Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标638.1884155273438--59.06333541870117
+2018-07-13T09:04:23.617Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标449.1885681152344--50.62520980834961
+2018-07-13T09:04:24.283Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:24.307Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:04:24.307Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标297.31292724609375--42.18708038330078
+2018-07-13T09:04:25.534Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标108.3131103515625--35.438358306884766
+2018-07-13T09:04:26.351Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标71.18891143798828--77.62543487548828
+2018-07-13T09:04:26.351Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:04:27.050Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:27.050Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:27.650Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:27.650Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:04:27.667Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:27.667Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:04:27.683Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:27.683Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:04:27.700Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:27.700Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:04:27.850Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:27.851Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:28.534Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:28.534Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:29.183Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标40.81343078613281--52.31283187866211
+2018-07-13T09:04:29.183Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:04:29.634Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标111.68836212158203--45.56233215332031
+2018-07-13T09:04:30.567Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标32.375301361083984--54.000457763671875
+2018-07-13T09:04:30.568Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:04:31.317Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标15.500825881958008--70.87493133544922
+2018-07-13T09:04:31.317Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:04:32.667Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标20.563703536987305--65.8138427734375
+2018-07-13T09:04:32.667Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:04:33.100Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标5.375070571899414--64.12621307373047
+2018-07-13T09:04:33.101Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:04:34.083Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:34.083Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:35.701Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标111.68836212158203--60.75096130371094
+2018-07-13T09:04:36.234Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：0--200; 点击坐标99.87677001953125--42.18708038330078
+2018-07-13T09:04:36.234Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:04:37.350Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:37.351Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:37.733Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:37.733Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:38.167Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:38.167Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:51.628Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T09:04:51.629Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T09:04:51.629Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T09:04:51.704Z - normal: Simulator: Ready for GLSL
+2018-07-13T09:04:51.704Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T09:04:51.706Z - normal: Simulator: 
+2018-07-13T09:04:51.706Z - normal: Simulator: {
+2018-07-13T09:04:51.706Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T09:04:51.706Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T09:04:51.706Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T09:04:51.706Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T09:04:51.706Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T09:04:51.706Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T09:04:51.707Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T09:04:51.712Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T09:04:51.713Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T09:04:51.716Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T09:04:51.716Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T09:04:51.716Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T09:04:51.717Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T09:04:51.717Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T09:04:51.717Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T09:04:51.717Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T09:04:51.718Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T09:04:51.718Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T09:04:51.718Z - normal: Simulator: }
+2018-07-13T09:04:51.719Z - normal: Simulator: 
+2018-07-13T09:04:51.719Z - normal: Simulator: 
+2018-07-13T09:04:51.719Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T09:04:51.720Z - normal: Simulator: Project Config:
+2018-07-13T09:04:51.720Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T09:04:51.720Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T09:04:51.720Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T09:04:51.720Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T09:04:51.720Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T09:04:51.721Z - normal: Simulator:     show console: NO
+2018-07-13T09:04:51.721Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T09:04:51.722Z - normal: Simulator:     listen: 
+2018-07-13T09:04:51.722Z - normal: Simulator:     debugger: none
+2018-07-13T09:04:51.722Z - normal: Simulator:     add searching path:
+2018-07-13T09:04:51.722Z - normal: Simulator: 
+2018-07-13T09:04:51.722Z - normal: Simulator: 
+2018-07-13T09:04:51.723Z - normal: Simulator: 
+2018-07-13T09:04:51.723Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:04:51.723Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T09:04:51.723Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:04:51.726Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T09:04:52.059Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T09:04:52.060Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T09:04:52.060Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T09:04:52.246Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T09:04:52.405Z - normal: Simulator: iShow!
+2018-07-13T09:04:52.510Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.6049999999999613ms
+2018-07-13T09:04:52.512Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.18299999999999272ms
+2018-07-13T09:04:52.513Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.09200000000004138ms
+2018-07-13T09:04:52.513Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.007000000000005002ms
+2018-07-13T09:04:52.564Z - normal: Simulator: D/jswrapper (125): JS: Activate: 50.14500000000004ms
+2018-07-13T09:04:54.057Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：500--700; 点击坐标57.687904357910156--74.25018310546875
+2018-07-13T09:04:54.057Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:04:56.693Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:04:56.694Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:04:58.307Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：500--700; 点击坐标88.06338500976562--146.812744140625
+2018-07-13T09:04:58.307Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:24:01.976Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-07-13T09:24:01.982Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 194, all objects: 475
+2018-07-13T09:24:02.002Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:24:02.003Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:24:02.032Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:24:02.033Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-07-13T09:24:02.064Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-07-13T09:24:02.073Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-07-13T09:24:02.073Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-07-13T09:24:02.073Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-07-13T09:24:02.074Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-07-13T09:24:46.753Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T09:24:46.754Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T09:24:46.754Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T09:24:46.825Z - normal: Simulator: Ready for GLSL
+2018-07-13T09:24:46.825Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T09:24:46.827Z - normal: Simulator: 
+2018-07-13T09:24:46.827Z - normal: Simulator: {
+2018-07-13T09:24:46.827Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T09:24:46.827Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T09:24:46.827Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T09:24:46.827Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T09:24:46.827Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T09:24:46.827Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T09:24:46.828Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T09:24:46.828Z - normal: Simulator: }
+2018-07-13T09:24:46.829Z - normal: Simulator: 
+2018-07-13T09:24:46.829Z - normal: Simulator: 
+2018-07-13T09:24:46.829Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T09:24:46.850Z - normal: Simulator: Project Config:
+2018-07-13T09:24:46.852Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T09:24:46.853Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T09:24:46.853Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T09:24:46.853Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T09:24:46.854Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T09:24:46.855Z - normal: Simulator:     show console: NO
+2018-07-13T09:24:46.856Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T09:24:46.856Z - normal: Simulator:     listen: 
+2018-07-13T09:24:46.856Z - normal: Simulator:     debugger: none
+2018-07-13T09:24:46.857Z - normal: Simulator:     add searching path:
+2018-07-13T09:24:46.857Z - normal: Simulator: 
+2018-07-13T09:24:46.857Z - normal: Simulator: 
+2018-07-13T09:24:46.858Z - normal: Simulator: 
+2018-07-13T09:24:46.859Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:24:46.859Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T09:24:46.859Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:24:46.859Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T09:24:47.220Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T09:24:47.221Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T09:24:47.222Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T09:24:47.415Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T09:24:47.576Z - normal: Simulator: iShow!
+2018-07-13T09:24:47.674Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.5980000000000132ms
+2018-07-13T09:24:47.677Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.17900000000003047ms
+2018-07-13T09:24:47.677Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.08400000000000318ms
+2018-07-13T09:24:47.678Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.009000000000014552ms
+2018-07-13T09:24:47.731Z - normal: Simulator: D/jswrapper (125): JS: Activate: 53.03299999999996ms
+2018-07-13T09:24:59.203Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标572.3763427734375--786.3765869140625
+2018-07-13T09:24:59.203Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:01.153Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标380.0012512207031--656.4382934570312
+2018-07-13T09:25:01.905Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标310.8139343261719--457.3127136230469
+2018-07-13T09:25:02.254Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:02.255Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标174.1251678466797--474.18896484375
+2018-07-13T09:25:02.503Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:02.553Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标223.062744140625--804.9386596679688
+2018-07-13T09:25:03.054Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:03.074Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:03.093Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:03.093Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标349.6257629394531--860.6267700195312
+2018-07-13T09:25:03.422Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:03.443Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:03.443Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标516.688232421875--926.4387817382812
+2018-07-13T09:25:03.836Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:03.859Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:03.859Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标705.6898803710938--928.1264038085938
+2018-07-13T09:25:04.538Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标677.0020141601562--933.1893310546875
+2018-07-13T09:25:04.908Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标673.6267700195312--727.313232421875
+2018-07-13T09:25:05.438Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标661.8133544921875--659.8135375976562
+2018-07-13T09:25:05.872Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标575.7515869140625--664.8764038085938
+2018-07-13T09:25:06.205Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.205Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标418.8130798339844--695.2518920898438
+2018-07-13T09:25:06.420Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.437Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.456Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.470Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.487Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.494Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标322.62554931640625--725.6256103515625
+2018-07-13T09:25:06.670Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.687Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.703Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.721Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.740Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.754Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.771Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.772Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标164.00119018554688--600.7520141601562
+2018-07-13T09:25:06.904Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.921Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.945Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.954Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.959Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.970Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.977Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:06.978Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标40.81343078613281--440.438232421875
+2018-07-13T09:25:07.204Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.204Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:25:07.220Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.220Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:25:07.220Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.221Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:25:07.420Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.420Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:25:07.504Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.504Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:25:07.521Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.521Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:25:07.522Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.523Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:25:07.937Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.937Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:25:07.955Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:07.955Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:25:08.003Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:08.003Z - normal: Simulator: touchesMoved: size = 0
+2018-07-13T09:25:08.004Z - normal: Simulator: if the index doesn't exist, it is an error
+2018-07-13T09:25:08.004Z - normal: Simulator: touchesEnded or touchesCancel: size = 0
+2018-07-13T09:25:08.386Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.388Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.404Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.405Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标113.37599182128906--67.49967956542969
+2018-07-13T09:25:08.570Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.576Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.588Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.597Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.604Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.604Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标410.3767395019531--108.00091552734375
+2018-07-13T09:25:08.770Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.771Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.789Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.789Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:08.790Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标631.4396362304688--108.00091552734375
+2018-07-13T09:25:08.987Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标720.876708984375--108.00091552734375
+2018-07-13T09:25:09.120Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.142Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.155Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.157Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.170Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.173Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.174Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标744.501708984375--295.3131103515625
+2018-07-13T09:25:09.287Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.305Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.320Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.337Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.337Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标737.7511596679688--399.93878173828125
+2018-07-13T09:25:09.537Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.557Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.557Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.576Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.576Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.587Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.589Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.591Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标680.3772583007812--664.8764038085938
+2018-07-13T09:25:09.871Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.890Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.906Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.921Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.941Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.953Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:09.953Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标670.25146484375--864.0020141601562
+2018-07-13T09:25:10.122Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:10.137Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:10.156Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:10.170Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:10.171Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标597.6889038085938--894.3756713867188
+2018-07-13T09:25:10.353Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标555.5018310546875--909.5643310546875
+2018-07-13T09:25:10.723Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标545.3760986328125--799.8757934570312
+2018-07-13T09:25:10.723Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:11.720Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标533.5645141601562--757.688720703125
+2018-07-13T09:25:11.720Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:12.237Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:12.254Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:12.254Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标570.688720703125--750.938232421875
+2018-07-13T09:25:12.254Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:12.821Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:12.822Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标624.6891479492188--774.5631713867188
+2018-07-13T09:25:13.154Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标604.439453125--825.1884155273438
+2018-07-13T09:25:13.287Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:13.305Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:13.325Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:13.337Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:13.354Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:13.371Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:13.371Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标557.189453125--838.6893920898438
+2018-07-13T09:25:13.553Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标540.313232421875--838.6893920898438
+2018-07-13T09:25:14.571Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:14.572Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:14.592Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:14.593Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标585.8773193359375--831.9389038085938
+2018-07-13T09:25:14.987Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标606.1270751953125--825.1884155273438
+2018-07-13T09:25:15.653Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标589.2507934570312--831.9389038085938
+2018-07-13T09:25:16.304Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标565.6258544921875--783.0013427734375
+2018-07-13T09:25:16.304Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:16.788Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标550.43896484375--747.5629272460938
+2018-07-13T09:25:16.788Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:17.237Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:17.237Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标585.8773193359375--781.3136596679688
+2018-07-13T09:25:17.237Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:17.620Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:25:17.620Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标597.6889038085938--799.8757934570312
+2018-07-13T09:25:17.621Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:18.004Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标606.1270751953125--811.6891479492188
+2018-07-13T09:25:19.370Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标606.1270751953125--826.8760375976562
+2018-07-13T09:25:20.070Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标607.814697265625--835.3141479492188
+2018-07-13T09:25:30.054Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标597.6889038085938--825.1884155273438
+2018-07-13T09:25:35.620Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标584.189697265625--799.8757934570312
+2018-07-13T09:25:35.621Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:25:39.688Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标609.5023193359375--838.6893920898438
+2018-07-13T09:25:43.589Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--750; 点击坐标606.1270751953125--826.8760375976562
+2018-07-13T09:27:03.410Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-07-13T09:27:03.411Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 194, all objects: 475
+2018-07-13T09:27:03.449Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:27:03.449Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:27:03.478Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:27:03.480Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-07-13T09:27:03.512Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-07-13T09:27:03.516Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-07-13T09:27:03.516Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-07-13T09:27:03.517Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-07-13T09:27:03.517Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-07-13T09:30:51.276Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T09:30:51.282Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T09:30:51.284Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T09:30:51.356Z - normal: Simulator: Ready for GLSL
+2018-07-13T09:30:51.356Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T09:30:51.356Z - normal: Simulator: 
+2018-07-13T09:30:51.356Z - normal: Simulator: {
+2018-07-13T09:30:51.356Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T09:30:51.356Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T09:30:51.356Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T09:30:51.356Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T09:30:51.356Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T09:30:51.356Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T09:30:51.356Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T09:30:51.357Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T09:30:51.358Z - normal: Simulator: }
+2018-07-13T09:30:51.358Z - normal: Simulator: 
+2018-07-13T09:30:51.358Z - normal: Simulator: 
+2018-07-13T09:30:51.358Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T09:30:51.358Z - normal: Simulator: Project Config:
+2018-07-13T09:30:51.358Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T09:30:51.358Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T09:30:51.358Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T09:30:51.358Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T09:30:51.358Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T09:30:51.358Z - normal: Simulator:     show console: NO
+2018-07-13T09:30:51.358Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T09:30:51.358Z - normal: Simulator:     listen: 
+2018-07-13T09:30:51.359Z - normal: Simulator:     debugger: none
+2018-07-13T09:30:51.359Z - normal: Simulator:     add searching path:
+2018-07-13T09:30:51.359Z - normal: Simulator: 
+2018-07-13T09:30:51.359Z - normal: Simulator: 
+2018-07-13T09:30:51.359Z - normal: Simulator: 
+2018-07-13T09:30:51.359Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:30:51.359Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T09:30:51.359Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:30:51.359Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T09:30:51.730Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T09:30:51.731Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T09:30:51.732Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T09:30:51.925Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T09:30:52.089Z - normal: Simulator: iShow!
+2018-07-13T09:30:52.206Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.54200000000003ms
+2018-07-13T09:30:52.208Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.16500000000002046ms
+2018-07-13T09:30:52.208Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.08699999999998909ms
+2018-07-13T09:30:52.208Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005999999999971806ms
+2018-07-13T09:30:52.265Z - normal: Simulator: D/jswrapper (125): JS: Activate: 51.952ms
+2018-07-13T09:30:55.127Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--150; 点击坐标543.6884765625--199.12557983398438
+2018-07-13T09:30:55.127Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:30:57.644Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--150; 点击坐标599.3765869140625--229.50106811523438
+2018-07-13T09:31:19.711Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：550--150; 点击坐标619.6262817382812--224.4381866455078
+2018-07-13T09:32:19.086Z - failed: [db-task][sync-changes] Failed to import asset G:\projects\cocos\FindTheTraitors\assets\scripts\Game.js, message: Compile error: SyntaxError: G:/projects/cocos/FindTheTraitors/assets/scripts/Game.js: Unexpected token (70:48)
+  68 |             if (i == traitorsPos) {
+  69 |                 this.traitorsLocX = actorPos.x + 30;
+> 70 |                 this.traitorsLocY = actorPos.y +;
+     |                                                 ^
+  71 |             }
+  72 |         }
+  73 |     },
+    at Parser.pp$5.raise (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOp (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3435:42)
+    at Parser.pp$3.parseExprOps (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3408:17)
+    at Parser.pp$3.parseMaybeConditional (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseMaybeAssign (D:\DevelopTools\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3367:23)
+2018-07-13T09:32:45.790Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-07-13T09:32:45.791Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-07-13T09:32:45.792Z - normal: Simulator: FRAME SCALE = 1.00
+2018-07-13T09:32:45.871Z - normal: Simulator: Ready for GLSL
+2018-07-13T09:32:45.872Z - normal: Simulator: Ready for OpenGL 2.0
+2018-07-13T09:32:45.872Z - normal: Simulator: 
+2018-07-13T09:32:45.872Z - normal: Simulator: {
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.version: 4.5.0 - Build 23.20.16.4973
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-07-13T09:32:45.873Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-07-13T09:32:45.873Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-07-13T09:32:45.873Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-07-13T09:32:45.873Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.vendor: Intel
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-07-13T09:32:45.873Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-07-13T09:32:45.874Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-07-13T09:32:45.874Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-07-13T09:32:45.874Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-07-13T09:32:45.874Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-07-13T09:32:45.874Z - normal: Simulator: }
+2018-07-13T09:32:45.874Z - normal: Simulator: 
+2018-07-13T09:32:45.874Z - normal: Simulator: 
+2018-07-13T09:32:45.874Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-07-13T09:32:45.876Z - normal: Simulator: Project Config:
+2018-07-13T09:32:45.876Z - normal: Simulator:     project dir: D:\DevelopTools\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-07-13T09:32:45.876Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-07-13T09:32:45.876Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-07-13T09:32:45.876Z - normal: Simulator:     frame size: 960 x 640
+2018-07-13T09:32:45.876Z - normal: Simulator:     frame scale: 1.00
+2018-07-13T09:32:45.876Z - normal: Simulator:     show console: NO
+2018-07-13T09:32:45.876Z - normal: Simulator:     write debug log: NO ()
+2018-07-13T09:32:45.877Z - normal: Simulator:     listen: 
+2018-07-13T09:32:45.877Z - normal: Simulator:     debugger: none
+2018-07-13T09:32:45.879Z - normal: Simulator:     add searching path:
+2018-07-13T09:32:45.881Z - normal: Simulator: 
+2018-07-13T09:32:45.882Z - normal: Simulator: 
+2018-07-13T09:32:45.882Z - normal: Simulator: 
+2018-07-13T09:32:45.882Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:32:45.883Z - normal: Simulator: LOAD Js FILE: main.js
+2018-07-13T09:32:45.883Z - normal: Simulator: ------------------------------------------------
+2018-07-13T09:32:45.884Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-07-13T09:32:46.235Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-07-13T09:32:46.236Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-07-13T09:32:46.236Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-07-13T09:32:46.423Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-07-13T09:32:46.591Z - normal: Simulator: iShow!
+2018-07-13T09:32:46.685Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.5060000000000286ms
+2018-07-13T09:32:46.687Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.16899999999998272ms
+2018-07-13T09:32:46.688Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.08299999999996999ms
+2018-07-13T09:32:46.688Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.010000000000047748ms
+2018-07-13T09:32:46.739Z - normal: Simulator: D/jswrapper (125): JS: Activate: 51.22199999999998ms
+2018-07-13T09:32:48.001Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标569.0010986328125--391.50067138671875
+2018-07-13T09:32:49.483Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标548.7513427734375--469.1260986328125
+2018-07-13T09:32:49.483Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:32:50.701Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标609.5023193359375--487.6882019042969
+2018-07-13T09:32:50.701Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:32:51.917Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标609.5023193359375--538.3134155273438
+2018-07-13T09:32:51.918Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:32:52.817Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标607.814697265625--546.7515258789062
+2018-07-13T09:32:52.817Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:32:53.300Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标550.43896484375--546.7515258789062
+2018-07-13T09:32:53.300Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:32:54.967Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标530.1892700195312--550.1267700195312
+2018-07-13T09:32:55.900Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:32:55.901Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标531.8768920898438--551.8143920898438
+2018-07-13T09:32:57.734Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标528.5016479492188--551.8143920898438
+2018-07-13T09:32:58.300Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标614.5634155273438--558.5631103515625
+2018-07-13T09:32:59.034Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标624.6891479492188--555.1878662109375
+2018-07-13T09:32:59.368Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标633.1273193359375--533.2505493164062
+2018-07-13T09:32:59.650Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:32:59.667Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:32:59.668Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标629.7520141601562--465.7508544921875
+2018-07-13T09:32:59.669Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:32:59.834Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:32:59.867Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:32:59.883Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:32:59.883Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标621.3139038085938--447.1887512207031
+2018-07-13T09:33:00.417Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标623.0015258789062--457.3127136230469
+2018-07-13T09:33:00.418Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:33:00.617Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:00.619Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:00.634Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:00.634Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:00.650Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:00.667Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:00.667Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标572.3763427734375--445.5011291503906
+2018-07-13T09:33:00.834Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标570.688720703125--445.5011291503906
+2018-07-13T09:33:01.250Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.267Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.284Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.284Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标523.438720703125--445.5011291503906
+2018-07-13T09:33:01.384Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.433Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.434Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.450Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.467Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.484Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:01.484Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标506.56427001953125--457.3127136230469
+2018-07-13T09:33:01.850Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标509.93951416015625--536.6257934570312
+2018-07-13T09:33:02.200Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:02.217Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:02.219Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:02.219Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标548.7513427734375--575.4393920898438
+2018-07-13T09:33:02.417Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:02.418Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标648.3141479492188--575.4393920898438
+2018-07-13T09:33:02.817Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标585.8773193359375--492.7510681152344
+2018-07-13T09:33:02.817Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:33:03.000Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标585.8773193359375--492.7510681152344
+2018-07-13T09:33:03.000Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:33:03.184Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标585.8773193359375--492.7510681152344
+2018-07-13T09:33:03.184Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:33:03.367Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标585.8773193359375--492.7510681152344
+2018-07-13T09:33:03.367Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:33:03.833Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:03.884Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标569.0010986328125--482.62530517578125
+2018-07-13T09:33:03.884Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:33:04.100Z - normal: Simulator: Can't find property: onTouchMoved
+2018-07-13T09:33:04.217Z - normal: Simulator: D/jswrapper (125): JS: 叛徒坐标：580--500; 点击坐标594.3136596679688--499.5015869140625
+2018-07-13T09:33:04.217Z - normal: Simulator: D/jswrapper (125): JS: 找到叛徒!!!
+2018-07-13T09:33:05.553Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-07-13T09:33:05.553Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 222, all objects: 503
+2018-07-13T09:33:05.579Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:33:05.580Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:33:05.613Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 173, all objects: 454
+2018-07-13T09:33:05.614Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-07-13T09:33:05.643Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-07-13T09:33:05.651Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-07-13T09:33:05.652Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-07-13T09:33:05.652Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-07-13T09:33:05.652Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-07-13T09:59:01.189Z - info: shutdown preview server

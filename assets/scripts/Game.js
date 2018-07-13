@@ -60,14 +60,14 @@ cc.Class({
                 //生成朋友
                 actor = cc.instantiate(this.friendPrefab);
             }
-            actor.anchorX = 0;
-            actor.anchorY = 0;
+            // actor.anchorX = 0;
+            // actor.anchorY = 0;
             this.playArea.addChild(actor);
-            var actorPos = cc.p(100 * (i % 7), 100 * parseInt(i / 7));
+            var actorPos = cc.p(100 * (i % 7) + 50, 100 * parseInt(i / 7) + 50);
             actor.setPosition(actorPos);
             if (i == traitorsPos) {
-                this.traitorsLocX = actorPos.x;
-                this.traitorsLocY = actorPos.y;
+                this.traitorsLocX = actorPos.x + 30;
+                this.traitorsLocY = actorPos.y + 50;
             }
         }
     },
@@ -85,7 +85,7 @@ cc.Class({
             onTouchEnded: function (touch, event) {
                 var touchLoc = touch.getLocation();
                 console.log("叛徒坐标：" + self.traitorsLocX + "--" + self.traitorsLocY + "; 点击坐标" + touchLoc.x + "--" + touchLoc.y);
-                if (touchLoc.x - self.traitorsLocX < 100 && touchLoc.y - self.traitorsLocY < 100) {
+                if (Math.abs(touchLoc.x - self.traitorsLocX) < 50 && Math.abs(touchLoc.y - self.traitorsLocY) < 50) {
                     console.log("找到叛徒!!!")
                 }
             }

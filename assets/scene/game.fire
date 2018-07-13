@@ -707,7 +707,7 @@
       "width": 760,
       "height": 1080
     },
-    "_fitWidth": false,
+    "_fitWidth": true,
     "_fitHeight": true
   },
   {
