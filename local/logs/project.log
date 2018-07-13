@@ -1,55 +1,54 @@
-2018-07-13T07:34:28.055Z - normal: Load ~/.CocosCreator/settings.json
-2018-07-13T07:34:28.059Z - normal: checking language setting...
-2018-07-13T07:34:28.060Z - normal: Language: zh
-2018-07-13T07:34:29.679Z - success: protocol editor-framework registered
-2018-07-13T07:34:29.680Z - success: protocol app registered
-2018-07-13T07:34:29.680Z - success: protocol theme registered
-2018-07-13T07:34:29.680Z - success: protocol packages registered
-2018-07-13T07:34:29.680Z - success: protocol unpack registerred
-2018-07-13T07:34:29.680Z - success: protocol disable-commonjs registerred
-2018-07-13T07:34:29.735Z - normal: connected!
-2018-07-13T07:34:29.736Z - normal: Check project G:\projects\cocos\FindTheTraitors
-2018-07-13T07:34:29.744Z - normal: Initializing Cocos2d
-2018-07-13T07:34:29.911Z - normal: Initializing Asset Database
-2018-07-13T07:34:29.940Z - success: protocol uuid registerred
-2018-07-13T07:34:29.940Z - success: protocol db registerred
-2018-07-13T07:34:29.940Z - success: protocol thumbnail registerred
-2018-07-13T07:34:29.940Z - normal: Loading editor/builtin packages
-2018-07-13T07:34:29.957Z - success: anysdk loaded
-2018-07-13T07:34:30.061Z - success: assets loaded
-2018-07-13T07:34:30.063Z - success: builder loaded
-2018-07-13T07:34:30.065Z - success: cocos-analytics loaded
-2018-07-13T07:34:30.068Z - success: console loaded
-2018-07-13T07:34:30.099Z - success: fb-instant-games loaded
-2018-07-13T07:34:30.102Z - success: hierarchy loaded
-2018-07-13T07:34:30.104Z - success: inspector loaded
-2018-07-13T07:34:30.105Z - success: keystore loaded
-2018-07-13T07:34:30.107Z - success: node-library loaded
-2018-07-13T07:34:30.109Z - success: package-asset loaded
-2018-07-13T07:34:30.111Z - success: preferences loaded
-2018-07-13T07:34:30.112Z - success: project-exporter loaded
-2018-07-13T07:34:30.123Z - success: project-importer loaded
-2018-07-13T07:34:30.125Z - success: project-settings loaded
-2018-07-13T07:34:30.127Z - success: ui-kit loaded
-2018-07-13T07:34:30.128Z - success: ui-grid loaded
-2018-07-13T07:34:30.130Z - success: scene loaded
-2018-07-13T07:34:30.131Z - success: sprite-editor loaded
-2018-07-13T07:34:30.133Z - success: store loaded
-2018-07-13T07:34:30.137Z - success: timeline loaded
-2018-07-13T07:34:30.137Z - normal: Loading builtin packages
-2018-07-13T07:34:30.139Z - success: asset-db-debugger loaded
-2018-07-13T07:34:30.140Z - success: code-editor loaded
-2018-07-13T07:34:30.140Z - success: color-picker loaded
-2018-07-13T07:34:30.142Z - success: package-manager loaded
-2018-07-13T07:34:30.146Z - success: sdkbox loaded
-2018-07-13T07:34:30.148Z - success: tester loaded
-2018-07-13T07:34:30.149Z - success: ui-kit-preview-extra loaded
-2018-07-13T07:34:30.150Z - success: ui-kit-preview loaded
-2018-07-13T07:34:30.151Z - success: ui-tree loaded
-2018-07-13T07:34:31.053Z - normal: Initializing project G:\projects\cocos\FindTheTraitors
-2018-07-13T07:34:31.055Z - normal: Loading packages
-2018-07-13T07:34:31.060Z - normal: Watching packages
-2018-07-13T07:34:31.071Z - normal: Run Application
-2018-07-13T07:34:31.419Z - success: preview server running at http://localhost:7456
-2018-07-13T07:34:35.126Z - normal: 1.9.1
-2018-07-13T07:34:47.309Z - info: shutdown preview server
+2018-07-13T07:50:14.196Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-13T07:50:14.201Z - normal: checking language setting...
+2018-07-13T07:50:14.201Z - normal: Language: zh
+2018-07-13T07:50:15.907Z - success: protocol editor-framework registered
+2018-07-13T07:50:15.907Z - success: protocol app registered
+2018-07-13T07:50:15.907Z - success: protocol theme registered
+2018-07-13T07:50:15.908Z - success: protocol packages registered
+2018-07-13T07:50:15.908Z - success: protocol unpack registerred
+2018-07-13T07:50:15.908Z - success: protocol disable-commonjs registerred
+2018-07-13T07:50:15.960Z - normal: connected!
+2018-07-13T07:50:15.962Z - normal: Check project G:\projects\cocos\FindTheTraitors
+2018-07-13T07:50:15.969Z - normal: Initializing Cocos2d
+2018-07-13T07:50:16.141Z - normal: Initializing Asset Database
+2018-07-13T07:50:16.170Z - success: protocol uuid registerred
+2018-07-13T07:50:16.170Z - success: protocol db registerred
+2018-07-13T07:50:16.170Z - success: protocol thumbnail registerred
+2018-07-13T07:50:16.170Z - normal: Loading editor/builtin packages
+2018-07-13T07:50:16.187Z - success: anysdk loaded
+2018-07-13T07:50:16.294Z - success: assets loaded
+2018-07-13T07:50:16.295Z - success: builder loaded
+2018-07-13T07:50:16.298Z - success: cocos-analytics loaded
+2018-07-13T07:50:16.300Z - success: console loaded
+2018-07-13T07:50:16.331Z - success: fb-instant-games loaded
+2018-07-13T07:50:16.334Z - success: hierarchy loaded
+2018-07-13T07:50:16.336Z - success: inspector loaded
+2018-07-13T07:50:16.338Z - success: keystore loaded
+2018-07-13T07:50:16.340Z - success: node-library loaded
+2018-07-13T07:50:16.342Z - success: package-asset loaded
+2018-07-13T07:50:16.344Z - success: preferences loaded
+2018-07-13T07:50:16.345Z - success: project-exporter loaded
+2018-07-13T07:50:16.357Z - success: project-importer loaded
+2018-07-13T07:50:16.359Z - success: project-settings loaded
+2018-07-13T07:50:16.361Z - success: ui-kit loaded
+2018-07-13T07:50:16.363Z - success: ui-grid loaded
+2018-07-13T07:50:16.365Z - success: scene loaded
+2018-07-13T07:50:16.366Z - success: sprite-editor loaded
+2018-07-13T07:50:16.369Z - success: store loaded
+2018-07-13T07:50:16.372Z - success: timeline loaded
+2018-07-13T07:50:16.372Z - normal: Loading builtin packages
+2018-07-13T07:50:16.374Z - success: asset-db-debugger loaded
+2018-07-13T07:50:16.375Z - success: code-editor loaded
+2018-07-13T07:50:16.376Z - success: color-picker loaded
+2018-07-13T07:50:16.378Z - success: package-manager loaded
+2018-07-13T07:50:16.382Z - success: sdkbox loaded
+2018-07-13T07:50:16.384Z - success: tester loaded
+2018-07-13T07:50:16.385Z - success: ui-kit-preview-extra loaded
+2018-07-13T07:50:16.386Z - success: ui-kit-preview loaded
+2018-07-13T07:50:16.388Z - success: ui-tree loaded
+2018-07-13T07:50:17.316Z - normal: Initializing project G:\projects\cocos\FindTheTraitors
+2018-07-13T07:50:17.319Z - normal: Loading packages
+2018-07-13T07:50:17.322Z - normal: Watching packages
+2018-07-13T07:50:17.333Z - normal: Run Application
+2018-07-13T07:50:18.265Z - success: preview server running at http://localhost:7456
+2018-07-13T07:50:22.610Z - normal: 1.9.1
