@@ -8,6 +8,8 @@
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
 
+var GLOBAL = require('Global');
+
 cc.Class({
     extends: cc.Component,
 
@@ -25,6 +27,21 @@ cc.Class({
             default: null,
             type: cc.Node
         },
+        //计时器
+        scheduleLab: {
+            default: null,
+            type: cc.Label,
+        },
+        //关卡数
+        stageLab: {
+            default: null,
+            type: cc.Label,
+        },
+        //得分数
+        scoreLab: {
+            default: null,
+            type: cc.Label,
+        },
         // 叛徒世界坐标
         traitorsLocX: 0,
         traitorsLocY: 0,
@@ -33,6 +50,22 @@ cc.Class({
     // LIFE-CYCLE CALLBACKS:
 
     onLoad() {
+        // 计时器时间间隔 
+        this.interval = 1;
+        // 重复次数
+        this.repeat = 10;
+        //计时器开始延时
+        this.delay = 0;
+        //关卡时间
+        this.timer = this.repeat;
+        //当前点击次数
+        this.clickNum = 0;
+
+        this.stageLab.string = "关卡:" + GLOBAL.stage.toString();
+        this.scoreLab.string = "得分:" + GLOBAL.score.toString();
+
+        // 初始化倒计时
+        this.setSchedule();
         // 演员就位
         this.initActors();
         //初始化输入监听
@@ -43,7 +76,6 @@ cc.Class({
     },
 
     update(dt) {
-
     },
 
     initActors: function () {
@@ -84,11 +116,43 @@ cc.Class({
 
             onTouchEnded: function (touch, event) {
                 var touchLoc = touch.getLocation();
-                console.log("叛徒坐标：" + self.traitorsLocX + "--" + self.traitorsLocY + "; 点击坐标" + touchLoc.x + "--" + touchLoc.y);
+                self.clickNum++;
                 if (Math.abs(touchLoc.x - self.traitorsLocX) < 50 && Math.abs(touchLoc.y - self.traitorsLocY) < 50) {
-                    console.log("找到叛徒!!!")
+                    //找到叛徒进入下一关卡
+                    self.nextStage();
                 }
             }
         }, self.node);
     },
+
+    setSchedule: function () {
+        this.schedule(function () {
+            if (this.timer <= 0) {
+                this.gameOver();
+            }
+            this.scheduleLab.string = this.timer;
+            this.timer--;
+        }, this.interval, this.repeat, this.delay);
+    },
+
+    gainStage: function () {
+        GLOBAL.stage += 1;
+        this.stageLab.string = "关卡:" + GLOBAL.stage.toString();
+    },
+
+    gainScore: function () {
+        GLOBAL.score += GLOBAL.stage * 100 + this.timer - (this.clickNum * 10);
+        this.scoreLab.string = "得分:" + GLOBAL.score.toString();
+    },
+
+    nextStage: function () {
+        this.gainScore();
+        this.gainStage();
+        cc.director.loadScene('game');
+    },
+
+    gameOver: function () {
+        cc.director.loadScene('start');
+    },
+
 });

@@ -8,6 +8,8 @@
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
 
+var GLOBAL = require('Global');
+
 cc.Class({
     extends: cc.Component,
 
@@ -21,7 +23,10 @@ cc.Class({
 
     // LIFE-CYCLE CALLBACKS:
 
-    onLoad() { },
+    onLoad() {
+        GLOBAL.stage = 1;
+        GLOBAL.score = 0;
+    },
 
     start() {
         this.play();
