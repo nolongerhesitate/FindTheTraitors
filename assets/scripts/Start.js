@@ -16,8 +16,8 @@ cc.Class({
     properties: {
         //菜單背景音樂
         menuAudio: {
-            type: cc.AudioSource,
-            default: null
+            default: null,
+            url: cc.AudioClip,
         }
     },
 
@@ -26,6 +26,7 @@ cc.Class({
     onLoad() {
         GLOBAL.stage = 1;
         GLOBAL.score = 0;
+        cc.audioEngine.play(this.menuAudio, false, 1);
     },
 
     start() {
@@ -36,12 +37,12 @@ cc.Class({
     },
 
     play: function () {
-        this.menuAudio.play();
+        // this.menuAudio.play();
     },
     onStartGame: function () {
         cc.director.loadScene("game");
     },
     pause: function () {
-        this.menuAudio.pause();
+        // this.menuAudio.pause();
     }
 });

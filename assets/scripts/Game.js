@@ -80,7 +80,7 @@ cc.Class({
 
     initActors: function () {
         // 叛徒生成位置
-        var traitorsPos = Math.round(cc.random0To1() * 63)
+        var traitorsPos = Math.round(cc.random0To1() * 63) - 1
 
         // 生成色塊
         for (var i = 0; i < 63; i++) {
